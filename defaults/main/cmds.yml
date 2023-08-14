@@ -1,0 +1,3 @@
+# command to execute to run luacheck
+luacheck_main_cmd: 'luacheck'
+

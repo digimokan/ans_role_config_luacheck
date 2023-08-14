@@ -1,0 +1,7 @@
+- name: "Install the 'devel/lua-luacheck' application package"
+  ansible.builtin.package:
+    name: devel/lua-luacheck
+    state: present
+  become: true
+  become_user: root
+
