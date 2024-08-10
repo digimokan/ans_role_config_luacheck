@@ -58,9 +58,9 @@ Install and configure the luacheck lua linter.
 
 ## Role Options
 
-See the role `defaults` files for main role vars listings:
+Vars defined by this role, exported with `public: true`, for use in other roles:
 
-  * [defaults](../defaults/main/)
+  * [export](../defaults/main/export/commands.yml)
 
 ## Contributing
 
